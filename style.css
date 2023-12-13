@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(135, 145, 81);
+}
+.chess-board td { border: 1px solid; width: 75px; height: 75px; }
+.chess-board .light { background: #eee; }
+.chess-board .dark { background: #000; }
